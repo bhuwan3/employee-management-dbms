@@ -1,2 +1,4 @@
-# employee-management-dbms
-A Full stack DBMS project to handle Employee Management System
+# Employee Management System
+This is a Full Stack CRUD Application for DBMS subject project.
+
+Developed by Mayank Parida, Bhuwan Jangid
